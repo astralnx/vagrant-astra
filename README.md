@@ -6,7 +6,7 @@ This is a [Vagrant](http://vagrantup.com/) plugin adding support for [Astra Linu
 
 ## Features
 
-* Detection
+* Vagrant OS detection
 
 ## Changes
 
